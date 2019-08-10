@@ -1,6 +1,7 @@
 # BitcoinTradingBot
-BTC Trading Bot Development 
-Used: Open AI Gym and Deep Reinforcement Learning (Proximal Policy Optimization) from stable_baselibe
+BTC Trading Bot Development
+
+Used: Open AI Gym and Deep Reinforcement Learning (Proximal Policy Optimization) from stable_baseline
 
 Run: BTCBot.py
 
