@@ -7,6 +7,4 @@ Run: BTCBot.py
 
 FYI, the same code can also be used for other Cryptocurrencies, just modify the Environment.py and BTCGraph.py according to the dataset.
 
-Source https://towardsdatascience.com/creating-bitcoin-trading-bots-that-dont-lose-money-2e7165fb0b29
-
 Educational Purposes Only!
